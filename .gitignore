@@ -1,3 +1,5 @@
 /.idea
 /datasets
 .DS_Store
+.pyc
+.pyo

@@ -1,10 +1,10 @@
-# DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection
+# Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection
 
 
 
 This is offical implementation of our paper:
 
-> DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection
+> Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection
 
 ![image1](media/Method.jpg)
 
