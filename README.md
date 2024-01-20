@@ -134,3 +134,13 @@ python train_net.py \
        SOLVER.IMG_PER_BATCH_LABEL 16 SOLVER.IMG_PER_BATCH_UNLABEL 16 MODEL.WEIGHTS ./output/model_newclass_phase_0.pth
 ```
 
+## Citation
+
+```bibtex
+@article{yuan2023dualteacher,
+  title={DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection},
+  author={Yuan, Ziqi and Wang, Liyuan and Ding, Wenbo and Zhang, Xingxing and Zhong, Jiachen and Ai, Jianyong and Li, Jianmin and Zhu, Jun},
+  journal={arXiv preprint arXiv:2401.05362},
+  year={2023}
+}
+```
